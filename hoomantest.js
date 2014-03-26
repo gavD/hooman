@@ -7,7 +7,7 @@ var noBots = new hOOmanTest($("demo"), {
             // add a field to the form that can show the processor the test has passed. 
             $("someForm").adopt(new Element("input", {
                 "type": "hidden",
-                "name": "captcha",
+                "name": "captcha", // nb I would change this to something unusual. GD.
                 "value": this.mover.name
             }));
 
