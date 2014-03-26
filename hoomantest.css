@@ -1,15 +1,15 @@
-    .botMessage {
+.botMessage {
     width: 180px;
     position: relative;
     float: right;
     top: 10px;
     font-size: 10px;
     font-family: verdana;
-    }
-    .botMessage strong {
+}
+.botMessage strong {
     color: #500;
-    }
-    .dropper {
+}
+.dropper {
     position: relative;
     width: 49px;
     height: 49px;
@@ -17,14 +17,14 @@
     margin-right: 11px;
     clear: right;
     float: right;
-    }
-    .captcha {
+}
+.captcha {
     float: left;
     padding-right: 10px;
-    }
-    .captcha img {
+}
+.captcha img {
     background: #fff;
     border: 1px solid #000;
     padding: 1px;
     margin-top: 8px
-    }
+}
